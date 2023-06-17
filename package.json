@@ -1,6 +1,6 @@
 {
   "name": "code",
-   "homepage": "https://creativoo.github.io/movieflow/",
+  "homepage": "https://creativoo.github.io/movieflow/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
