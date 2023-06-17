@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movieflow/static/css/main.7ffd54c9.css",
+    "main.js": "/movieflow/static/js/main.31dccff8.js",
+    "static/media/boxicons.svg": "/movieflow/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/footer-bg.jpg": "/movieflow/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/movieflow/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/movieflow/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/movieflow/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/movieflow/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/tmovie.png": "/movieflow/static/media/tmovie.67797e942e59deb68592.png",
+    "index.html": "/movieflow/index.html",
+    "main.7ffd54c9.css.map": "/movieflow/static/css/main.7ffd54c9.css.map",
+    "main.31dccff8.js.map": "/movieflow/static/js/main.31dccff8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ffd54c9.css",
+    "static/js/main.31dccff8.js"
+  ]
+}
